@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rainbow-bookkeeping/static/css/main.b49504f3.chunk.css",
+    "main.js": "/rainbow-bookkeeping/static/js/main.ff3681c9.chunk.js",
+    "main.js.map": "/rainbow-bookkeeping/static/js/main.ff3681c9.chunk.js.map",
+    "runtime-main.js": "/rainbow-bookkeeping/static/js/runtime-main.0bb82dd1.js",
+    "runtime-main.js.map": "/rainbow-bookkeeping/static/js/runtime-main.0bb82dd1.js.map",
+    "static/js/2.112960f5.chunk.js": "/rainbow-bookkeeping/static/js/2.112960f5.chunk.js",
+    "static/js/2.112960f5.chunk.js.map": "/rainbow-bookkeeping/static/js/2.112960f5.chunk.js.map",
+    "index.html": "/rainbow-bookkeeping/index.html",
+    "static/css/main.b49504f3.chunk.css.map": "/rainbow-bookkeeping/static/css/main.b49504f3.chunk.css.map",
+    "static/js/2.112960f5.chunk.js.LICENSE.txt": "/rainbow-bookkeeping/static/js/2.112960f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb82dd1.js",
+    "static/js/2.112960f5.chunk.js",
+    "static/css/main.b49504f3.chunk.css",
+    "static/js/main.ff3681c9.chunk.js"
+  ]
+}
